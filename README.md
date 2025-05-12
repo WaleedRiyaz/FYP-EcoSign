@@ -69,11 +69,11 @@
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/Muhammad-Ali-Khokhar/EchoSign/blob/master/other_resources/one.jpg" alt="Screen 1" width="200"/>
-  <img src="https://github.com/Muhammad-Ali-Khokhar/EchoSign/blob/master/other_resources/step%201.jpg" alt="Screen 2" width="200"/>
-  <img src="https://github.com/Muhammad-Ali-Khokhar/EchoSign/blob/master/other_resources/step%202.jpg" alt="Screen 3" width="200"/>
-  <img src="https://github.com/Muhammad-Ali-Khokhar/EchoSign/blob/master/other_resources/splash.jpg" alt="Splash Screen" width="200"/>
-  <img src="https://github.com/Muhammad-Ali-Khokhar/EchoSign/blob/master/other_resources/camera.jpg" alt="Camera Screen" width="200"/>
+  <img src="https://github.com/WaleedRiyaz/FYP-EcoSign/blob/master/other_resources/one.jpg" alt="Screen 1" width="200"/>
+  <img src="https://github.com/WaleedRiyaz/FYP-EcoSign/blob/master/other_resources/step%201.jpg" alt="Screen 2" width="200"/>
+  <img src="https://github.com/WaleedRiyaz/FYP-EcoSign/blob/master/other_resources/step%202.jpg" alt="Screen 3" width="200"/>
+  <img src="https://github.com/WaleedRiyaz/FYP-EcoSign/blob/master/other_resources/splash.jpg" alt="Splash Screen" width="200"/>
+  <img src="https://github.com/WaleedRiyaz/FYP-EcoSign/blob/master/other_resources/camera.jpg" alt="Camera Screen" width="200"/>
 </p>
 
 ## Contributing
